@@ -1,3 +1,8 @@
+Simple project to create a basic website relating to my hobby terrariums.
+
+Leaving CI readme below for reference at the moment.
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome,
