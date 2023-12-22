@@ -108,7 +108,7 @@ main {
 #hero {
     height: 600px;
     width: 100%;
-    background: url(assets/images/20191227_222338.jpg) no-repeat center center/cover;
+    background: url(../images/20191227_222338.jpg) no-repeat center center / cover;
     position: relative;
 
 }
